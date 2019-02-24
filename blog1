@@ -1,2 +1,2 @@
-cd jdmintz.github.io
+cd jdmintz.github.io/cookings/
 echo "Hello World" > index.html
